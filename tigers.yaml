@@ -14,3 +14,4 @@ members:
 - Nebula
 
 fetch: this
+signed: yes
